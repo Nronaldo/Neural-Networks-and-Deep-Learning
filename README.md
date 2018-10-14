@@ -8,4 +8,4 @@ You will find:
 
 Writing these notebooks was very useful for me. Whether you will find them useful is more uncertain. If you want to learn more about neural networks and deep learning, I strongly advise you to read the book itself !
 
-The pictures are screenshots from the book that I included in my summary. 
+The pictures are screenshots from the book that I included in my summary. ``NNDL_file`` contains the MNIST data, and is taken from Nielsen's downloadable file [here](https://github.com/mnielsen/neural-networks-and-deep-learning).
