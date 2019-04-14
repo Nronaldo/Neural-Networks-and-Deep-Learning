@@ -11,3 +11,6 @@ Writing these notebooks was very useful for me. Whether you will find them usefu
 The pictures are screenshots from the book that I included in my summary. ``NNDL_file`` contains the MNIST data, and is taken from Nielsen's downloadable file [here](https://github.com/mnielsen/neural-networks-and-deep-learning).
 
 I should mention that since I pushed these, my friend Timothée Chauvin wrote [similar notebooks](https://github.com/timotheechauvin/nndl-solutions), except his are **much better**: they are cleaner, more exhaustive, and explain [how to update the code for Python 3](https://nbviewer.jupyter.org/github/TimotheeChauvin/NNDL-solutions/blob/master/notebooks/chap-0-update-code-for-python3.ipynb). 
+
+## License
+This project is under the MIT License.
